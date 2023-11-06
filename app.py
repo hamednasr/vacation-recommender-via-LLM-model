@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 from langchain.llms import GooglePalm
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
